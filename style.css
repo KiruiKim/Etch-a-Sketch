@@ -16,5 +16,7 @@
       transition: background 0.3s;
     }
 
-    
+    .grid-item:hover {
+      background-color:rgb(12, 165, 12);
+    }
    
